@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=1000&random=false&width=1000&lines=Hi!+%F0%9F%91%8B+I'm+Shreyas+Mohite;Nice+to+meet+you..." alt="Typing SVG" /></a>
 # 💫 About Me:
 🧠 Building AI systems that go beyond demos — production-ready GenAI.<br>📚 RAG, LLM fine-tuning (LoRA/PEFT), and retrieval engineering.<br>⚡ GPU inference optimization & distributed ML workflows.<br>☁️ Cloud-native ML: GCP, AWS, Docker, Kubernetes, Terraform.<br>🔬 Interested in AI infra, agent systems & scalable ML deployment.<br>🚀 Open to collaborating on high-impact ML projects.
 
