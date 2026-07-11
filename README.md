@@ -3,9 +3,9 @@
 I build agentic pipelines, plus the evaluation and observability systems around them.<br>
 
 ## Background : 
-ML: fine-tuning LLMs, ASR/TTS/STT pipelines (Quantiphi)
-Full stack: apps, APIs (Acme, ride sharing project, event storage system)
-Now: agents + evals (Serapath, workforce assistant)
+ML: fine-tuning LLMs, ASR/TTS/STT pipelines (Quantiphi)<br>
+Full stack: apps, APIs (Acme, ride sharing project, event storage system)<br>
+Now: agents + evals (Serapath, workforce assistant)<br>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohiteshreyasv/) 
