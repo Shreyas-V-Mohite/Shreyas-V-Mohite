@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=2000&pause=1000&random=false&width=1000&lines=Hello!+%F0%9F%91%8B+I'm+Shreyas+Mohite;Welcome+to+my+git" alt="Typing SVG" /></a>
 # About Me:
-I build agentic pipelines, plus the evaluation and observability systems around them.<br>
+Currently building agentic pipelines, plus the evaluation and observability systems around them.<br>
 
 ## Background : 
 Full stack: apps, APIs (Acme, ride sharing project, event storage system)<br>
