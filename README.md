@@ -5,7 +5,7 @@
 - Building agentic AI systems, distributed platforms, with a focus on evaluation and observability.
 - Focused on LangGraph, LangSmith, RAG, LLM fine-tuning, Kafka, and cloud-native deployment
 - Open to SWE and AI Engineer roles
-- Reach me: [mohitehsreyasv@gmail.com](mailto:mohitehsreyasv@gmail.com) · [Portfolio](https://github.com/Shreyas-V-Mohite/Portfolio) · [LinkedIn](https://www.linkedin.com/in/mohiteshreyasv)
+- Reach me: [mohitehsreyasv@gmail.com](mailto:mohitehsreyasv@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohiteshreyasv)
 
 ### Skills
 
