@@ -1,6 +1,6 @@
 # Hi, I'm Shreyas
 
-**Full Stack AI Engineer** · San Francisco, CA
+**Software Engineer** · San Francisco, CA
 
 - Building agentic AI systems, distributed platforms, with a focus on evaluation and observability.
 - Focused on LangGraph, LangSmith, RAG, LLM fine-tuning, Kafka, and cloud-native deployment
