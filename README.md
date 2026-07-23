@@ -7,6 +7,7 @@
 - Open to SWE and AI Engineer roles
 - Reach me: [mohitehsreyasv@gmail.com](mailto:mohitehsreyasv@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohiteshreyasv)
 - [Resume](https://drive.google.com/file/d/1-7v-VAT8cIOc9UaB-WNRV49uCfJvgLC0/view?usp=sharing)
+- [Master's project](https://github.com/Shreyas-V-Mohite/AgenticAI_AutoBot)
 
 ### Skills
 
