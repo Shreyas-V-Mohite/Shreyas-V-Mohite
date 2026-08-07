@@ -6,7 +6,7 @@
 - Focused on LangGraph, LangSmith, RAG, LLM fine-tuning, Kafka, and cloud-native deployment
 - Open to SWE and AI Engineer roles
 - Reach me: [mohitehsreyasv@gmail.com](mailto:mohitehsreyasv@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohiteshreyasv)
-- [Resume](https://drive.google.com/file/d/1KZnOmpJ0pR9wFAhybrFFvwtpJsGrnpM6/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1kziW_-Lv53PUpQ8k7QWsgt_Yftkf0rR8/view?usp=sharing)
 - [Master's project](https://github.com/Shreyas-V-Mohite/AgenticAI_AutoBot)
 
 ### Skills
